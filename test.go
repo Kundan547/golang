@@ -18,7 +18,7 @@ func PrintAge() {
 	fmt.Println("Age:", Age)
 }
 
-func main() {
-	PrintName()
-	PrintAge()
-}
+// func main() {
+// 	PrintName()
+// 	PrintAge()
+// }
